@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77480782865",
+    "firebase_url": "https://marketwhispererstradingjournal.firebaseio.com",
+    "project_id": "marketwhispererstradingjournal",
+    "storage_bucket": "marketwhispererstradingjournal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77480782865:android:8f528d12a87df09f",
+        "android_client_info": {
+          "package_name": "com.android.markwhisperers.marketwhispererstradingjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77480782865-lir43066mdnqvmvv847s596mn0itg7o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.markwhisperers.marketwhispererstradingjournal",
+            "certificate_hash": "1a8e4b3fe7666a93b9993b20bb936c0be2dd9873"
+          }
+        },
+        {
+          "client_id": "77480782865-u02butvvjc5li3j61j0licgmf8qqv5h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcNl8vDKPda8P-e50VbCcc3H7PKhnBXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77480782865-u02butvvjc5li3j61j0licgmf8qqv5h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
